@@ -1,3 +1,3 @@
 
 https://tindog-dogs-social-platform.netlify.app/ <br/>
-Well in this generation everyone wants to show off their love for their pets by sharing their pets images over the internet. Keeping in mind built a fully responsive front-end both responsive in mobile and desktop with different window size.
+Welcome to a dynamic and visually stunning webpage, crafted with passion and expertise! This responsive masterpiece has been meticulously designed and developed by me, leveraging the power of Bootstrap, HTML, and CSS.
